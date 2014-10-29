@@ -13,6 +13,8 @@
 		07654ED41A00A84600B67181 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07654ED31A00A84600B67181 /* Images.xcassets */; };
 		07654ED71A00A84600B67181 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07654ED51A00A84600B67181 /* LaunchScreen.xib */; };
 		07654EE31A00A84600B67181 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07654EE21A00A84600B67181 /* PostcardTests.swift */; };
+		07654EED1A00A94E00B67181 /* SagradaFamilia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07654EEC1A00A94E00B67181 /* SagradaFamilia.jpg */; };
+		07654EEF1A00AB9E00B67181 /* Einstein.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07654EEE1A00AB9E00B67181 /* Einstein.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		07654EDC1A00A84600B67181 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		07654EE11A00A84600B67181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07654EE21A00A84600B67181 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		07654EEC1A00A94E00B67181 /* SagradaFamilia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpg; sourceTree = "<group>"; };
+		07654EEE1A00AB9E00B67181 /* Einstein.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Einstein.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		07654ECA1A00A84600B67181 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				07654EEE1A00AB9E00B67181 /* Einstein.jpeg */,
+				07654EEC1A00A94E00B67181 /* SagradaFamilia.jpg */,
 				07654ECB1A00A84600B67181 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				07654ED21A00A84600B67181 /* Main.storyboard in Resources */,
 				07654ED71A00A84600B67181 /* LaunchScreen.xib in Resources */,
+				07654EEF1A00AB9E00B67181 /* Einstein.jpeg in Resources */,
 				07654ED41A00A84600B67181 /* Images.xcassets in Resources */,
+				07654EED1A00A94E00B67181 /* SagradaFamilia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
